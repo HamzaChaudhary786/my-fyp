@@ -17,7 +17,7 @@ app.get("/",(req , res)=>{
 
 
 
-app.get("/allah",(req , res) =>{
+app.get("/apidata",(req , res) =>{
     res.send(apiData);
 
 });
