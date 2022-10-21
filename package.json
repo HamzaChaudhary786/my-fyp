@@ -15,5 +15,14 @@
   },
   "author": "",
   "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamzaChaudhary786/my-fyp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HamzaChaudhary786/my-fyp/issues"
+  },
+  "homepage": "https://github.com/HamzaChaudhary786/my-fyp#readme",
   "description": ""
 }
