@@ -1,72 +1,48 @@
-[
-  {
-    "albumId": 1,
-    "id": 1,
-    "title": "accusamus beatae ad facilis cum similique qui sunt",
-    "url": "https://via.placeholder.com/600/92c952",
-    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
-  },
-  {
-    "albumId": 1,
-    "id": 2,
-    "title": "reprehenderit est deserunt velit ipsam",
-    "url": "https://via.placeholder.com/600/771796",
-    "thumbnailUrl": "https://via.placeholder.com/150/771796"
-  },
-  {
-    "albumId": 1,
-    "id": 3,
-    "title": "officia porro iure quia iusto qui ipsa ut modi",
-    "url": "https://via.placeholder.com/600/24f355",
-    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
-  },
-  {
-    "albumId": 1,
-    "id": 4,
-    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-    "url": "https://via.placeholder.com/600/d32776",
-    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
-  },
-  {
-    "albumId": 1,
-    "id": 5,
-    "title": "natus nisi omnis corporis facere molestiae rerum in",
-    "url": "https://via.placeholder.com/600/f66b97",
-    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
-  },
-  {
-    "albumId": 1,
-    "id": 6,
-    "title": "accusamus ea aliquid et amet sequi nemo",
-    "url": "https://via.placeholder.com/600/56a8c2",
-    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
-  },
-  {
-    "albumId": 1,
-    "id": 7,
-    "title": "officia delectus consequatur vero aut veniam explicabo molestias",
-    "url": "https://via.placeholder.com/600/b0f7cc",
-    "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
-  },
-  {
-    "albumId": 1,
-    "id": 8,
-    "title": "aut porro officiis laborum odit ea laudantium corporis",
-    "url": "https://via.placeholder.com/600/54176f",
-    "thumbnailUrl": "https://via.placeholder.com/150/54176f"
-  },
-  {
-    "albumId": 1,
-    "id": 9,
-    "title": "qui eius qui autem sed",
-    "url": "https://via.placeholder.com/600/51aa97",
-    "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
-  },
-  {
-    "albumId": 1,
-    "id": 10,
-    "title": "beatae et provident et ut vel",
-    "url": "https://via.placeholder.com/600/810b14",
-    "thumbnailUrl": "https://via.placeholder.com/150/810b14"
-  }
-]
+{
+  "Search": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "The Small World",
+      "description": "Please help raise $40,000 to support 40 girls from rural villages of Nepal with housing and education support each year.",
+      "poster": "https://bit.ly/3F7wbZp"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Origin Learning Fund",
+      "description": "Please help Origin Learning fundraise $50,000 to empower indigenous and migrant young women through tailored quality digital education and vocational training to build sustainable communities in La Guajira, Colombia.",
+      "poter": "https://bit.ly/3VQYq4B"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "Yo Quiero Yo Puedo 2022",
+      "description": "We can stop child marriage in Mexico. Please support our program in raising $50,000 to prevent 1,168 child marriages so that girls can decide their own future.",
+      "poter": "https://bit.ly/3N4r4LF"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "Dhammajarinee Witthaya School",
+      "description": "Please help us raise $50,000 to purchase 205 laptops for the 410 girls in grades 7-9 to learn STEM and English at the Dhammajarinee Witthaya School.",
+      "poster": "https://bit.ly/3shGIdb"
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "Women's Resource Center",
+      "description": "Help us educate girls in Siem Reap, Cambodia about their sexual and reproductive rights and empower them to make educated choices!",
+      "poster": "https://bit.ly/3TNQkIk"
+    },
+    {
+      "albumId": 1,
+      "id": 6,
+      "title": "Girl Move",
+      "description": "Help Girl Move raise $50,000.00 to help girls in Mozambique to recover learning loss due to setbacks from the COVID-19 pandemic.",
+      "poster": "https://bit.ly/3N0qqis"
+    }
+  ],
+  "Response": "True",
+  "Total": "250"
+}
