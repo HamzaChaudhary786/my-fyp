@@ -31,7 +31,7 @@
       "title": "Dhammajarinee Witthaya School",
       "description": "Please help us raise $50,000 to purchase 205 laptops for the 410 girls in grades 7-9 to learn STEM and English at the Dhammajarinee Witthaya School.",
       "poster": "https://bit.ly/3shGIdb",
-      "value":"30%"
+      "value":30
     },
     {
       "albumId": 1,
@@ -39,7 +39,7 @@
       "title": "Women's Resource Center",
       "description": "Help us educate girls in Siem Reap, Cambodia about their sexual and reproductive rights and empower them to make educated choices!",
       "poster": "https://bit.ly/3TNQkIk",
-      "value":15
+      "value":85
     },
     {
       "albumId": 1,
@@ -47,7 +47,7 @@
       "title": "Girl Move",
       "description": "Help Girl Move raise $50,000.00 to help girls in Mozambique to recover learning loss due to setbacks from the COVID-19 pandemic.",
       "poster": "https://bit.ly/3Sxhjqt",
-      "value":35
+      "value":50
 
     }
   ],
