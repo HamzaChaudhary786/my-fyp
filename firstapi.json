@@ -6,9 +6,8 @@
       "title": "The Small World",
       "description": "Please help raise $40,000 to support 40 girls from rural villages of Nepal with housing and education support each year.Please Support Needy People",
       "poster": "https://bit.ly/3F7wbZp",
-      "value":20,
-      "dollar":"30000$",
-      "project":"Project Dollar"
+      "value":20
+     
     },
     {
       "albumId": 1,
@@ -16,9 +15,7 @@
       "title": "Origin Learning Fund",
       "description": "Please help Origin Learning fundraise $50,000 to empower indigenous and migrant young women through tailored quality digital education in La Guajira, Colombia.",
       "poster": "https://bit.ly/3h6xM8b",
-      "value":20,
-      "dollar":"45000$",
-      "project":"Project Found"
+      "value":20
 
     },
     {
@@ -27,11 +24,7 @@
       "title": "Donation For Flood In Pakistan",
       "description": "The number of damaged and destroyed houses now exceeds 2 million. Around 23,900 schools, 1,460 health facilities and 13,000 km of roads have also reportedly been damaged. ",
       "poster": "https://bit.ly/3fylBjZ",
-      "value":40,
-      "dollar":"35000$",
-      "project":" Pledgar"
-
-
+      "value":40
     },
     {
       "albumId": 1,
@@ -59,6 +52,23 @@
 
     }
   ],
+  "Recived_Dollar":[
+
+    {
+      "dollar":"30000$",
+      "project":"Project Dollar"
+    },
+    {
+      "dollar":"45000$",
+      "project":"Project Found"
+    },
+    {
+      "dollar":"35000$",
+      "project":" Pledgar"
+    }
+  ],
+
+
   "Response": "True",
   "Total": "250"
 }
