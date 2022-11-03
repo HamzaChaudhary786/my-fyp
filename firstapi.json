@@ -7,7 +7,8 @@
       "description": "Please help raise $40,000 to support 40 girls from rural villages of Nepal with housing and education support each year.Please Support Needy People",
       "poster": "https://bit.ly/3F7wbZp",
       "value":20,
-      "dollar":30000
+      "dollar":"30000$",
+      "project":"Project Dollar"
     },
     {
       "albumId": 1,
@@ -16,7 +17,8 @@
       "description": "Please help Origin Learning fundraise $50,000 to empower indigenous and migrant young women through tailored quality digital education in La Guajira, Colombia.",
       "poster": "https://bit.ly/3h6xM8b",
       "value":20,
-      "dollar":45000
+      "dollar":"45000$",
+      "project":"Project Found"
 
     },
     {
@@ -26,7 +28,8 @@
       "description": "The number of damaged and destroyed houses now exceeds 2 million. Around 23,900 schools, 1,460 health facilities and 13,000 km of roads have also reportedly been damaged. ",
       "poster": "https://bit.ly/3fylBjZ",
       "value":40,
-      "dollar":35000
+      "dollar":"35000$",
+      "project":" Pledgar"
 
 
     },
