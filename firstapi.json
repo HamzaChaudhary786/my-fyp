@@ -1,7 +1,7 @@
 {
   "Search": [
     {
-      "albumId": 1,
+      "albumId": 11,
       "id": 1,
       "title": "The Small World",
       "description": "Please help raise $40,000 to support 40 girls from rural villages of Nepal with housing and education support each year.Please Support Needy People",
@@ -9,7 +9,8 @@
       "value": 20
     },
     {
-      "albumId": 1,
+      "albumId": 12,
+      "names":"bussiness",
       "id": 2,
       "title": "Origin Learning Fund",
       "description": "Please help Origin Learning fundraise $50,000 to empower indigenous and migrant young women through tailored quality digital education in La Guajira, Colombia.",
@@ -18,7 +19,8 @@
       "link": "/floods"
     },
     {
-      "albumId": 1,
+      "albumId": 13,
+      "names":"bussiness",
       "id": 3,
       "title": "Donation For Flood In Pakistan",
       "description": "The number of damaged and destroyed houses now exceeds 2 million. Around 23,900 schools, 1,460 health facilities and 13,000 km of roads have also reportedly been damaged. ",
@@ -26,7 +28,8 @@
       "value": 40
     },
     {
-      "albumId": 1,
+      "albumId": 14,
+      "names":"bussiness",
       "id": 4,
       "title": "Dhammajarinee Witthaya School",
       "description": "Please help us raise $50,000 to purchase 205 laptops for the 410 girls in grades 7-9 to learn STEM and English at the Dhammajarinee Witthaya School.",
@@ -34,7 +37,8 @@
       "value": 30
     },
     {
-      "albumId": 1,
+      "albumId": 15,
+      "names":"bussiness",
       "id": 5,
       "title": "Women's Resource Center",
       "description": "Help us educate girls in Siem Reap, Cambodia about their sexual and reproductive rights and empower them to make educated choices!",
@@ -42,7 +46,8 @@
       "value": 85
     },
     {
-      "albumId": 1,
+      "albumId": 16,
+      "names":"bussiness",
       "id": 6,
       "title": "Girl Move",
       "description": "Help Girl Move raise $50,000.00 to help girls in Mozambique to recover learning loss due to setbacks from the COVID-19 pandemic..Please Support Needy People",
