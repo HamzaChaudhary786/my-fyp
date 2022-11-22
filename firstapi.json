@@ -10,7 +10,6 @@
       "value": 20
     },
     {
-
       "albumId": 12,
       "id": 2,
       "names": "sales",
@@ -55,6 +54,34 @@
       "description": "Help Girl Move raise $50,000.00 to help girls in Mozambique to recover learning loss due to setbacks from the COVID-19 pandemic..Please Support Needy People",
       "poster": "https://bit.ly/3WuHp0D",
       "value": 50
+    },
+    {
+      "albumId": 17,
+      "names": "poor",
+      "id": 1,
+      "title": "Homeless",
+      "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
+      "poster": "https://bit.ly/3Ed7vhf",
+      "value": 20
+    },
+    {
+      "albumId": 18,
+      "names": "poor",
+      "id": 2,
+      "title": "Sickness",
+      "description": "Due To The OutBreak Of Water Troughout The Areas Affected By Flood, Water Has Been Aging Over The Old Dirty Water, Causing Malaria and Other Health Hazards.",
+      "poster": "https://bit.ly/3FXTxkF",
+      "value": 20,
+      "link": "/floods"
+    },
+    {
+      "albumId": 19,
+      "names": "poor",
+      "id": 3,
+      "title": "Mental Trauma",
+      "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+      "poster": "https://bit.ly/3tadWvl",
+      "value": 40
     }
   ],
   "Recived_Dollar": [
@@ -69,34 +96,6 @@
     {
       "dollar": "35000$",
       "project": " Pledgar"
-    }
-  ],
-
-  "Poor": [
-    {
-      "albumId": 1,
-      "id": 1,
-      "title": "Homeless",
-      "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
-      "poster": "https://bit.ly/3Ed7vhf",
-      "value": 20
-    },
-    {
-      "albumId": 1,
-      "id": 2,
-      "title": "Sickness",
-      "description": "Due To The OutBreak Of Water Troughout The Areas Affected By Flood, Water Has Been Aging Over The Old Dirty Water, Causing Malaria and Other Health Hazards.",
-      "poster": "https://bit.ly/3FXTxkF",
-      "value": 20,
-      "link": "/floods"
-    },
-    {
-      "albumId": 1,
-      "id": 3,
-      "title": "Mental Trauma",
-      "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
-      "poster": "https://bit.ly/3tadWvl",
-      "value": 40
     }
   ],
   "Response": "True",
