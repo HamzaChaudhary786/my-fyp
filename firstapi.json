@@ -26,7 +26,8 @@
       "title": "Donation For Flood In Pakistan",
       "description": "The number of damaged and destroyed houses now exceeds 2 million. Around 23,900 schools, 1,460 health facilities and 13,000 km of roads have also reportedly been damaged. ",
       "poster": "https://bit.ly/3fylBjZ",
-      "value": 40
+      "value": 40,
+      "link": "/floods"
     },
     {
       "albumId": 14,
@@ -35,7 +36,8 @@
       "title": "Dhammajarinee Witthaya School",
       "description": "Please help us raise $50,000 to purchase 205 laptops for the 410 girls in grades 7-9 to learn STEM and English at the Dhammajarinee Witthaya School.",
       "poster": "https://bit.ly/3U5mFLk",
-      "value": 30
+      "value": 30,
+      "link": "/floods"
     },
     {
       "albumId": 15,
@@ -44,7 +46,8 @@
       "title": "Women's Resource Center",
       "description": "Help us educate girls in Siem Reap, Cambodia about their sexual and reproductive rights and empower them to make educated choices!",
       "poster": "https://bit.ly/3SZyalZ",
-      "value": 85
+      "value": 85,
+      "link": "/floods"
     },
     {
       "albumId": 16,
@@ -53,7 +56,8 @@
       "title": "Girl Move",
       "description": "Help Girl Move raise $50,000.00 to help girls in Mozambique to recover learning loss due to setbacks from the COVID-19 pandemic..Please Support Needy People",
       "poster": "https://bit.ly/3WuHp0D",
-      "value": 50
+      "value": 50,
+      "link": "/floods"
     },
     {
       "albumId": 17,
@@ -62,7 +66,8 @@
       "title": "Homeless",
       "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
       "poster": "https://bit.ly/3Ed7vhf",
-      "value": 20
+      "value": 20,
+      "link": "/floods"
     },
     {
       "albumId": 18,
@@ -81,7 +86,8 @@
       "title": "Mental Trauma",
       "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
       "poster": "https://bit.ly/3tadWvl",
-      "value": 40
+      "value": 40,
+      "link": "/floods"
     }
   ],
   "Recived_Dollar": [
